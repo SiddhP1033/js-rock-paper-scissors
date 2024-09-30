@@ -52,3 +52,7 @@
 <p>Can add an Autoplay Button to let computer play automatically.</p>
 
 <h2>Screenshots</h2>
+
+![Initial Screen](ss1.png)
+![Game Screen](ss2.png)
+![Game Screen](ss3.png)
